@@ -1,0 +1,16 @@
+# Projeto Pg RMAN Interface
+# Autor: Vinicius Porto Lima (viniciusmaximus@gmail.com)
+
+1. Descrição
+
+ Este tutorial irá ensinar, passo-a-passo, como configurar os scripts do Pg RMAN Interface
+
+2. Pré-requisitos
+
+ - Inclua o My Modules no Perl Include Path
+ - Instale os módulos Error e Getopt::Long
+	
+3. Configurando no cacti
+
+ - Adicione os scripts no diretório <cacti_site>/scripts
+ - Adicione um Data Input Method para cada script, considerando o respectivo output
