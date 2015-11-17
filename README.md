@@ -1,5 +1,4 @@
-# rman
-# Projeto Pg RMAN Interface
+# Pg RMAN Interface
 # Autor: Vinicius Porto Lima (viniciusmaximus@gmail.com)
 
 1. Descrição
